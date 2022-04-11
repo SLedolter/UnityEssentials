@@ -4,5 +4,8 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/BallLavaFloor.unity
+    guid: 2bcfe534a9806144ebfc08a2090c3207
   m_configObjects: {}
